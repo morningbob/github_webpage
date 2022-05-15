@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github_webpage/static/css/main.ea20fd30.css",
+    "main.js": "/github_webpage/static/js/main.9c5020b3.js",
+    "static/js/787.bec0b77c.chunk.js": "/github_webpage/static/js/787.bec0b77c.chunk.js",
+    "static/media/git_backgd_2.jpg": "/github_webpage/static/media/git_backgd_2.6a2555cfd601bee14de2.jpg",
+    "static/media/to_pdf_06.jpg": "/github_webpage/static/media/to_pdf_06.fe889f746fd7a6d33caa.jpg",
+    "static/media/to_pdf_08.jpg": "/github_webpage/static/media/to_pdf_08.5d636a5403d09ae5349f.jpg",
+    "static/media/to_pdf_01.jpg": "/github_webpage/static/media/to_pdf_01.79890b2521f34332c1e3.jpg",
+    "static/media/01_BLEChat_android.jpg": "/github_webpage/static/media/01_BLEChat_android.4d12a3cec4ac539e2891.jpg",
+    "static/media/signal_02.jpeg": "/github_webpage/static/media/signal_02.88278f55271e329cde50.jpeg",
+    "static/media/signal_01.jpeg": "/github_webpage/static/media/signal_01.80b43664657e9788476b.jpeg",
+    "static/media/02_BLEChat_android.jpg": "/github_webpage/static/media/02_BLEChat_android.7d2aa5b259bbd5c794a7.jpg",
+    "static/media/05_BLEChat_android.jpg": "/github_webpage/static/media/05_BLEChat_android.f2c8efec6260d340144a.jpg",
+    "static/media/peerConnect_01.jpg": "/github_webpage/static/media/peerConnect_01.100bb70565aba9252d31.jpg",
+    "static/media/peerConnect_07.jpg": "/github_webpage/static/media/peerConnect_07.39f21b39868767765fd5.jpg",
+    "static/media/peerConnect_04.jpg": "/github_webpage/static/media/peerConnect_04.0935c8635a58b1923373.jpg",
+    "index.html": "/github_webpage/index.html",
+    "main.ea20fd30.css.map": "/github_webpage/static/css/main.ea20fd30.css.map",
+    "main.9c5020b3.js.map": "/github_webpage/static/js/main.9c5020b3.js.map",
+    "787.bec0b77c.chunk.js.map": "/github_webpage/static/js/787.bec0b77c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea20fd30.css",
+    "static/js/main.9c5020b3.js"
+  ]
+}
