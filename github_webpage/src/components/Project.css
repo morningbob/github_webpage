@@ -1,0 +1,186 @@
+.project-container {
+    width: 80%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.project-icon {
+    margin-bottom: 2%;
+    height: 130px;
+}
+
+.project-title {
+    font-size: 50px;
+    font-style: bold;
+    margin-top: 2%px;
+    margin-bottom: 4%;
+}
+
+.project-description {
+    font-size: 20px;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 40px;
+}
+
+.project-details {
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+    line-height: 70px;
+}
+
+.project-details-platform-title {
+    display: inline-block;
+}
+
+.project-details-platform-content {
+    display: inline-block;
+    margin-left: 18px;
+}
+
+.project-details-language-container {
+    display: inline;
+}
+
+.project-details-language-title {
+    display: inline-block;
+    margin-left: 8%;
+}
+
+.project-details-language-content {
+    display: inline-block;
+    margin-left: 18px;
+}
+
+.project-details-repo-title {
+    line-height: 25px;
+}
+
+.project-details-repo-content {
+    margin-left: 5px;
+    line-height: 25px;
+}
+
+.project-screenshots {
+
+}
+
+.project-screenshot {
+    height: 600px;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+
+.project-screenshot-container {
+    margin-top: 5%;
+}
+
+.project-screenshot-image-container {
+    
+}
+
+.project-screen-description {
+    font-size: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 7%;
+    line-height: 40px;
+}
+
+@media only screen and (max-width: 600px) {
+    .project-container {
+        width: 80%;
+        height: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .project-icon {
+        margin-bottom: 10px;
+        height: 80px;
+    }
+    
+    .project-title {
+        font-size: 30px;
+        font-style: bold;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    
+    .project-description {
+        font-size: 20px;
+        margin-bottom: 30px;
+        margin-left: 20px;
+        margin-right: 20px;
+        line-height: 25px;
+    }
+    
+    .project-details {
+        font-size: 20px;
+        margin-top: 20px;
+        text-align: left;
+        line-height: 40px;
+    }
+    
+    .project-details-platform-title {
+        margin-left: 15px;
+    }
+    
+    .project-details-platform-content {
+        margin-left: 15px;
+    }
+
+    .project-details-language-container {
+        display: block;
+    }
+    
+    .project-details-language-title {
+        margin-left: 15px;
+    }
+    
+    .project-details-language-content {
+        margin-left: 15px;
+    }
+
+    .project-details-repo-container {
+        margin-top: 10px;
+        display: block;
+    }
+    
+    .project-details-repo-title {
+        margin-left: 15px;
+    }
+    
+    .project-details-repo-content {
+        margin-left: 15px;
+    }
+    
+    .project-screenshots {
+    
+    }
+    
+    .project-screenshot {
+        height: 600px;
+        margin-bottom: 30px;
+    }
+    
+    .project-screenshot-container {
+        margin-top: 30px;
+    }
+    
+    .project-screenshot-image-container {
+        
+    }
+    
+    .project-screen-description {
+        font-size: 20px;
+        margin-left: 15px;
+        margin-right: 20px;
+        margin-bottom: 30px;
+        line-height: 25px;
+    }
+}
+
